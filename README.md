@@ -1,8 +1,9 @@
 # ShopApp-backend-main
 
 ## Project Description:
-We designed an online Book store. It allows Customers to sigup, login, logout, reset their password, search items by category, add items to cart, update or delete items from cart and checkout. 
-In the about us page, we can add new team members and store their images on S3 bucket. 
+
+A simulated book store, where a user can create a account and login. 
+It allows Customers to sigup, login, logout, reset their password, search items by category, add items to cart, update or delete items from cart and checkout.  Once logged-in, the user will be able to browse through the different genre of book upon interest. Once the book/s is/are fixed User can add to cart and checkout. In the about us page, team members can be added and their images stored on a S3 bucket. 
 
 ## Technologies Used
 - Spring Boot
@@ -15,6 +16,16 @@ In the about us page, we can add new team members and store their images on S3 b
 - S3 bucket for images storage
 - Ec2 hosting for backend.
 
+
+## Roles / Responsibilities
+- Implemented Spring Boot connected to a PostgreSQL Database.
+- Created login/logout feature using JWT Token for security and reliability.
+- Signup feature and reset password using Java mail.
+- Utilized Angular & Bootstrap for dynamic front-end views.
+- Image upload and display using AWS S3.
+- Backend hosted in AWS EC2.
+- Used Log4J to enable logging.
+- Used Mockito for testing.
 
 ## Features
 
