@@ -1,10 +1,10 @@
 # ShopApp-backend-main
 
-Project Description:
+## Project Description:
 We designed an online Book store. It allows Customers to sigup, login, logout, reset their password, search items by category, add items to cart, update or delete items from cart and checkout. 
 In the about us page, we can add new team members and store their images on S3 bucket. 
 
-Technologies Used
+## Technologies Used
 - Spring Boot
 - Spring Data 
 - Angular 
@@ -15,6 +15,8 @@ Technologies Used
 - S3 bucket for images storage
 - Ec2 hosting for backend.
 
+
+## Features
 
 List of features ready and TODOs for future development:
 
@@ -33,6 +35,10 @@ To-do list:
 
 
 ## Getting Started
+
+git clone 
+
+npm -i
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -54,6 +60,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ![Screen Shot 2021-05-25 at 12 22 52 PM](https://user-images.githubusercontent.com/54957332/119533848-46f07b80-bd54-11eb-9cb0-d3de31cbbd29.png)
 
 ![Screen Shot 2021-05-25 at 12 23 00 PM](https://user-images.githubusercontent.com/54957332/119533874-4bb52f80-bd54-11eb-8cf9-bac5c2857b5d.png)
+
 
 
 ## Build
